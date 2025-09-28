@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Extracted Media
+extracted_audio.wav
+
+# Nix
+result*
+.direnv/
+
+# Input Files
+video.mp4
